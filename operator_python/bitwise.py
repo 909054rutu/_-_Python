@@ -1,0 +1,9 @@
+a=1010
+b=1000
+#c=a&b
+#c=a|b
+#c=a^b
+#c=~a
+#c=a<<2
+c=a>>2
+print(bin(c))
